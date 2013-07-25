@@ -10,6 +10,7 @@ These VIs were created and saved in LabVIEW 2011 SP1. Tested with a Digilent Nex
 References
 "Zaks" implementation posted at https://groups.google.com/forum/#!topic/fpgalink-users/aMzdhjzhovs
 
+![alt screenshot](https://raw.github.com/adecold/LV_libfpgalink/master/screenshot.png "screenshot")
 
 ## Functions Implemented
 + flClose
